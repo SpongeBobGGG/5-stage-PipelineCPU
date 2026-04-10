@@ -23,4 +23,5 @@
 #### e) Other Instructions (其他指令)
 * `mfhi`, `mflo`, `nop`
 
-<img width="788" height="1119" alt="image" src="https://github.com/user-attachments/assets/dec0525b-5664-4869-b74d-7d15efe1bcc3" />
+<img width="1119" height="788" alt="Screenshot 2026-04-adfasdf10 171309" src="https://github.com/user-attachments/assets/88e5826f-a39c-403a-bc01-43b4dc1ce49b" />
+
